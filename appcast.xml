@@ -2,34 +2,11 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Kova Updates</title>
-        <link>https://seusite.com/kova/appcast.xml</link>
+        <link>https://kodalabsdev.github.io/Kova/appcast.xml</link>
         <description>Atualizações do Kova, o navegador.</description>
         <language>pt-BR</language>
 
         <!-- Cada <item> é uma versão lançada. A mais recente com maior sparkle:version fica no topo. -->
-        <item>
-            <title>Versão 1.1.0</title>
-            <description>
-                <![CDATA[
-                    <h2>Novidades</h2>
-                    <ul>
-                        <li>Correção de bug na barra de endereço</li>
-                        <li>Novo visual das abas</li>
-                    </ul>
-                ]]>
-            </description>
-            <pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
-            <enclosure
-                url="https://seusite.com/kova/downloads/Kova-1.1.0.zip"
-                sparkle:version="1.1.0"
-                sparkle:shortVersionString="1.1.0"
-                length="0"
-                type="application/octet-stream"
-                sparkle:edSignature="COLE_AQUI_A_ASSINATURA_GERADA_PELO_sign_update"
-            />
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-        </item>
-
         <item>
             <title>Versão 1.0.0</title>
             <description>
@@ -41,9 +18,9 @@
                     </ul>
                 ]]>
             </description>
-            <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
+            <pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
             <enclosure
-                url="https://seusite.com/kova/downloads/Kova-1.0.0.zip"
+                url="https://github.com/Kodalabsdev/Kova/releases/download/v1.0.0/Kova-1.0.0.zip"
                 sparkle:version="1.0.0"
                 sparkle:shortVersionString="1.0.0"
                 length="0"
